@@ -94,8 +94,9 @@ Me chamo Matheus Felipe, tenho 24 anos e sou apaixonado por tecnologia, programa
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
-<br>
-<br>
+
+<br/>
+<br/>
 
 
 ### 💼 Soft Skills
