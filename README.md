@@ -79,8 +79,8 @@ Me chamo Matheus Felipe, tenho 24 anos e sou apaixonado por tecnologia, programa
 
 <img 
     align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
+    alt="Angularjs"
+    title="Angularjs" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" 
