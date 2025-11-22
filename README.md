@@ -9,6 +9,7 @@ Me chamo Matheus Felipe, tenho 24 anos e sou apaixonado por tecnologia, programa
 ## 🧠 Sobre mim
 
 * 👨‍🏫 Atuei como **Instrutor de Informática**, auxiliando alunos no uso de ferramentas como Word, Excel e PowerPoint.
+* 💼 Autei como **Estagiário de Suporte e Automação**, suporte técnico remoto com alta taxa de resolução no primeiro contato.
 * 🧰 Experiência em **resolução de problemas técnicos**, incluindo melhoria de infraestrutura como aterramento e uso de filtros de linha para estabilizar equipamentos.
 * 💻 Meu primeiro contato com programação foi durante o curso **Técnico de Informática**, onde descobri minha vocação pela área.
 
