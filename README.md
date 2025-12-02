@@ -2,7 +2,7 @@
 
 **`Estudante de Análise e Desenvolvimento de Sistemas`**
 
-Me chamo Matheus Felipe, tenho 24 anos e sou apaixonado por tecnologia, programação e aprendizado contínuo. Iniciei minha trajetória na área durante o curso Técnico de Informática, e desde então venho aprimorando minhas habilidades tanto na prática quanto academicamente. Tenho experiência com suporte técnico e instrutoria de informática, e atualmente estou em busca de novas oportunidades que me desafiem a crescer como desenvolvedor.
+Me chamo Matheus Felipe, tenho 25 anos e sou apaixonado por tecnologia, programação e aprendizado contínuo. Iniciei minha trajetória na área durante o curso Técnico de Informática, e desde então venho aprimorando minhas habilidades tanto na prática quanto academicamente. Tenho experiência com suporte técnico e instrutoria de informática, e atualmente estou em busca de novas oportunidades que me desafiem a crescer como desenvolvedor.
 
 ---
 
