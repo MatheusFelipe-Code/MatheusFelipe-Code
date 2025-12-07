@@ -123,9 +123,10 @@ Me chamo Matheus Felipe, tenho 25 anos e sou apaixonado por tecnologia, programa
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatheusFelipe-Code\&theme=tokyonight\&show_icons=true\&locale=pt-br\&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatheusFelipe-Code&theme=tokyonight&show_icons=true&locale=pt-br&include_all_commits=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusFelipe-Code\&theme=tokyonight\&layout=compact\&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusFelipe-Code&theme=tokyonight&layout=compact&langs_count=8)
+
 
 ---
 
