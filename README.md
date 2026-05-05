@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Matheus Felipe
 
-**`Estudante de Análise e Desenvolvimento de Sistemas`**
+**`Estudante de Engenharia de Software`**
 
 Me chamo Matheus Felipe, tenho 25 anos e sou apaixonado por tecnologia, programação e aprendizado contínuo. Iniciei minha trajetória na área durante o curso Técnico de Informática, e desde então venho aprimorando minhas habilidades tanto na prática quanto academicamente. Tenho experiência com suporte técnico e instrutoria de informática, e atualmente estou em busca de novas oportunidades que me desafiem a crescer como desenvolvedor.
 
@@ -17,7 +17,7 @@ Me chamo Matheus Felipe, tenho 25 anos e sou apaixonado por tecnologia, programa
 
 ## 🎓 Formação Acadêmica
 
-* 💻 **Tecnólogo em Análise e Desenvolvimento de Sistemas** – Em andamento
+* 💻 **Engenharia de Software** – Em andamento
 * 💾 **Técnico em Informática**
 * 🌐 **Curso de Desenvolvimento Web Full Stack** – Em andamento
 
